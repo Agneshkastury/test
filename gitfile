@@ -1,0 +1,5 @@
+sudo apt install git
+git version
+git init
+touch gitfile
+git add gitfile
